@@ -1,6 +1,6 @@
-#!/bin/sh
-
-#[ $(($RANDOM % 1000)) -lt 70 ] && echo "Play Splatoon!!" && exit 0 
+#!/bin/bash
+ 
+[ $(($RANDOM % 1000)) -lt 200 ] && exit
 
 cd `dirname $0`
 echo "." >> README.md
