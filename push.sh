@@ -1,6 +1,6 @@
 #!/bin/bash
  
-[ $(($RANDOM % 1000)) -lt 200 ] && exit
+[ $(($RANDOM % 1000)) -lt 200 ] && exit 0
 
 cd `dirname $0`
 echo "." >> README.md
