@@ -1,6 +1,8 @@
 # mygarden
 
 ![status](https://img.shields.io/badge/tadaken3-This--is--joke--repository-green.svg?style=flat)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/tadaken3/mygarden.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftadaken3%2Fmygarden)
+
 
 to push every day to GitHub.
 
