@@ -1,6 +1,6 @@
 # mygarden
 
-https://img.shields.io/badge/kakakakakku-blog--is--my--life-232f3e.svg?style=for-the-badge
+![status](https://img.shields.io/badge/tadaken3-This--is--joke--repository-green.svg?style=flat)
 
 to push every day to GitHub.
 
