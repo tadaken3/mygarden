@@ -1,4 +1,7 @@
 # mygarden
+
+https://img.shields.io/badge/tadaken3-this--is--joke--repository-green.svg?style=for-the-badge
+
 to push every day to GitHub.
 
 ```
